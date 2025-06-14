@@ -1,1 +1,1 @@
-# Dictionary
+# Dictionary (mini_project)
